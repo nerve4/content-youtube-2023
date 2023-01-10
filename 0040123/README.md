@@ -2,8 +2,8 @@
 
 ## Summary
 
-[Official Website](https://www.ossec.net)
-[Downloads](https://www.ossec.net/ossec-downloads/)
+  - [Official Website](https://www.ossec.net)
+  - [Downloads](https://www.ossec.net/ossec-downloads/)
 
 ## Key Benefits:
 
